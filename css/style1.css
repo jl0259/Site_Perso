@@ -1,0 +1,109 @@
+th,td{
+    border: 1px solid black;
+}
+
+h2,h1,h3,h4{ 
+    color: rgb(247, 10, 10);
+    font-family: Georgia, 'Times New Roman', Times, serif,black;
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+    font-size: 21px;
+    text-shadow: 1px 0 10px chartreuse;
+    
+}
+
+img{
+    display: block;
+    margin: 0px auto;
+   
+   }
+
+.titre{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif,black;
+    font-size: large;
+    text-align: center;
+    
+ }
+
+ p{
+     color: rgb(8, 160, 8);
+     font-family: Georgia, 'Times New Roman', Times, serif,black;
+     font-size: large;
+     text-align: center;
+ }  
+ body{
+     background-image:url(../imageweb/fond1.png);
+     background-size : cover;
+ }
+ .important{
+    text-decoration: underline;
+    color: red;
+ }
+ 
+ .Contact{
+    text-align: center;
+
+ }
+.contactez-nous{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+.textarea{
+    font-size: 35px;
+    
+   
+}
+.textarea:focus{
+    background-color:lightgreen;
+}
+
+.pagination {
+    display: inline-block;
+    color: red;
+  }
+  
+  .pagination a {
+    color: red;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    
+  }
+  
+ footer{
+    background: rgba(0, 0, 0, 0.459); 
+    position:fixed; 
+   bottom:0;
+   width:100%;
+   margin: auto;
+   height:50px;
+   text-align: center;
+   } 
+  
+   .fa-facebook{
+    font-size: 35px;
+    margin: 11px;
+    text-shadow: 1px 0 10px chartreuse;
+    
+    
+  }
+  .copyright{
+    font-weight: bold;
+    color: black;
+    text-shadow: 1px 0 10px chartreuse;
+  }   
+
+.nom{font-weight: bold;
+    font-size: 21px;
+    
+}
+.prenom{font-weight: bold;
+    font-size: 21px;
+    
+}
+
+
